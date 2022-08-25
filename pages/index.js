@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import {NxtpSdkBase} from '@connext/nxtp-sdk'
 
 export default function Home() {
   return (
